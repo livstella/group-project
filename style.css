@@ -1,19 +1,29 @@
-div{
+body {
+  background-color: rgba(242, 223, 153, 0.18);
+}
+
+
+a{
+  color: rgb(57, 52, 36)
+}
+img {
+  max-width: 100vw;
+  height: 30vw;
+  display: flex;
+
+}
+
+.card-title{
+  text-align: center;
+  }
+.card-deck {
   margin: 20px;
+  }
+
+.card {
+  background-color: rgba(242, 223, 153, 0.45);
 }
 
-table{
-  width: 400px;
-}
-
-th{
-  background-color: chocolate;
-}
-img{
-  height: 450px;
-  width: 300px;
-}
-
-.card-table{
-  width: 100%;
+ul{
+  background-color: rgb(242, 201, 153);
 }
