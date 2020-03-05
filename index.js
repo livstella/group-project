@@ -1,5 +1,3 @@
-document.query.Selector(//id).addEventListener('click', () => {
-  alert(//pagelink)
-});
-
-//requires "share"button in the html-file
+function myFunction() {
+ alert("Hello! This the the url you need: https://runningonrealfood.com/vegan-buffalo-cauliflower-wraps/");
+}
