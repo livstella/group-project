@@ -1,5 +1,5 @@
 button1.addEventListener("click", function myFunction(){
- alert("Share this link with your friends: https://runningonrealfood.com/vegan-buffalo-cauliflower-wraps/");
+ alert("Share this link with your friends");
 });
 button2.addEventListener("click", function myFunction(){
  alert("Share this link with your friends: https://runningonrealfood.com/brown-rice-burrito-bowl/");
