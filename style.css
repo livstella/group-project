@@ -1,6 +1,9 @@
 body {
   background-color: #F0EAEA;
 }
+h3, h4, h5, h6{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 
 
 a{
@@ -44,7 +47,7 @@ button{
 
 .list-group-item{
 
-font-family: Comic Sans MS;
+font-family: 'Open Sans Condensed', sans-serif;
 font-size: 1.3em;
 text-align: center;
 
